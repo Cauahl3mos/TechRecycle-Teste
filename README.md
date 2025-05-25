@@ -124,3 +124,11 @@ PASS  ./passwordValidator.test.js
 Test Suites: 1 passed, 1 total
 Tests:       4 passed, 4 total
 ```
+## 🛠️ Tecnologias e ferramentas utilizadas
+
+- **Node.js** — ambiente de execução.
+- **Jest** — biblioteca para realização de testes unitários.
+- **NPM** — gerenciador de pacotes do Node.js.
+- **Git** — para versionamento de código.
+
+---
