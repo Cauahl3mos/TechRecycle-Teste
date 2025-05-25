@@ -1,4 +1,5 @@
-🌱 Tech-Recycle
+# 🌱 Tech-Recycle
+
 Sistema web para incentivar o descarte correto de resíduos, com cadastro e login de usuários, funcionalidades de mapa e informações de reciclagem.
 ---
 
