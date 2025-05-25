@@ -1,3 +1,15 @@
+🌱 Tech-Recycle
+Sistema web para incentivar o descarte correto de resíduos, com cadastro e login de usuários, funcionalidades de mapa e informações de reciclagem.
+---
+
+
+# 📦 Tech Recycle — Teste Unitário
+
+## 📖 Introdução
+
+Este repositório foi criado com o principal objetivo de demonstrar a aplicação de **testes unitários** em um projeto utilizando **Node.js** e **Jest**. O foco está no desenvolvimento e validação da função `passwordValidator`, que garante a segurança mínima exigida para senhas.
+
+O projeto serve como um exemplo prático de como implementar e estruturar testes unitários, reforçando a importância das boas práticas de qualidade de software, garantindo que as funções desenvolvidas se comportem conforme o esperado.
 
 ---
 
